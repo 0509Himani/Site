@@ -1,0 +1,38 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+header {
+    /* display: flex;
+    justify-content: space-between;
+    align-items: center; */
+    /* padding: 20px; */
+    background-image: url(bg.jpg);
+    background-size: cover;
+}
+
+.cah {
+    font-size: 40px;
+    color: white;
+    font-family: "Bebas Neue", sans-serif;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    padding: 30px;
+
+}
+.navbar{
+    padding:20px;
+    display:flex;
+    justify-content: space-between;
+    background-color: rgba(0,0,0,0.4);
+}
+.intro{
+    font-family: "Bebas Neue";
+}
+body {
+    font-family: "Roboto";
+}
